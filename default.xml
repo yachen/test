@@ -12,4 +12,8 @@
            revision="master" 
            name="NUC970_U-Boot_v2016.11" 
            path="bsp/u-boot"/>
+  <project remote="Nuvoton" 
+           revision="72f3f2da28630b0dc1e7d25d8a4cfd8661ba959a" 
+           name="NUC980_Linux_Applications" 
+           path="bsp/applications"/>
 </manifest>
