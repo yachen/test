@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default sync-j="2"/>
+  <remote fetch="git://github.com/OpenNuvoton" name="Nuvoton"/>
+  <project remote="Nuvoton" revision="master" name="NUC980-linux-4.4.y" path="bsp/linux-4.4.y"/>
+
+</manifest>
